@@ -1,1 +1,1 @@
-It is a Portuguase chair shop.
+It is a Portuguase chair shop place.
