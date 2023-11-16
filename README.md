@@ -1,1 +1,1 @@
-It is a Portuguese chair shop place. The mechanics are not implemented yet.
+It is a Portuguese chair shop place. JS code is not implemented yet.
