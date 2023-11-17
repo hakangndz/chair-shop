@@ -1,1 +1,1 @@
-It is a Portuguese chair shop place. JS code is not implemented yet.
+It is a Portuguese chair shop place. JS code and basket will be added later
