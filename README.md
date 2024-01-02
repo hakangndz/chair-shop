@@ -1,1 +1,1 @@
-A Portuguese chair-shop webpage.
+It is a Portuguese chair-shop webpage.
